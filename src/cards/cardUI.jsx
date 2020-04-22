@@ -9,7 +9,7 @@ const cards = (props) => {
       </div>
       <div className="card-body text-dark">
         <h4 className="card-title">{props.title}</h4>
-        <a href="#" className="btn btn-outline-success">
+        <a href="https://picsum.photos/id/0/5616/3744" className="btn btn-outline-success">
           Download{" "}
         </a>
       </div>
